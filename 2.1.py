@@ -42,7 +42,3 @@ finally:
     browser.quit()
 
 
-import math
-x = 2
-y = math.log(abs(12*math.sin(x)))
-print(y)
